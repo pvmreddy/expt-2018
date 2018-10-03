@@ -1,0 +1,4 @@
+﻿  FindCheese.cpp
+c:\users\vpulagam\documents\expt\findcheese\findcheese\findcheese.cpp(95): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FindCheese.vcxproj -> C:\Users\vpulagam\Documents\expt\FindCheese\Debug\FindCheese.exe
+  FindCheese.vcxproj -> C:\Users\vpulagam\Documents\expt\FindCheese\Debug\FindCheese.pdb (Partial PDB)

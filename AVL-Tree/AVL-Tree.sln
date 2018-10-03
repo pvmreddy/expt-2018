@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AVL-Tree", "AVL-Tree\AVL-Tree.vcxproj", "{70903A4A-DB6F-4F1A-8493-28D07FCA5B54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70903A4A-DB6F-4F1A-8493-28D07FCA5B54}.Debug|x64.ActiveCfg = Debug|x64
+		{70903A4A-DB6F-4F1A-8493-28D07FCA5B54}.Debug|x64.Build.0 = Debug|x64
+		{70903A4A-DB6F-4F1A-8493-28D07FCA5B54}.Debug|x86.ActiveCfg = Debug|Win32
+		{70903A4A-DB6F-4F1A-8493-28D07FCA5B54}.Debug|x86.Build.0 = Debug|Win32
+		{70903A4A-DB6F-4F1A-8493-28D07FCA5B54}.Release|x64.ActiveCfg = Release|x64
+		{70903A4A-DB6F-4F1A-8493-28D07FCA5B54}.Release|x64.Build.0 = Release|x64
+		{70903A4A-DB6F-4F1A-8493-28D07FCA5B54}.Release|x86.ActiveCfg = Release|Win32
+		{70903A4A-DB6F-4F1A-8493-28D07FCA5B54}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD4CC727-800A-45B5-AC97-46237AE5B323}
+	EndGlobalSection
+EndGlobal
